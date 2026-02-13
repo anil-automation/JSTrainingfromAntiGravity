@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+out/
+
+# Test results
+test-results/
+playwright-report/
+blob-report/
+
+# Coverage
+coverage/
+
+# Temp files
+*.tmp
+*.temp
+.cache/
+
+# Gemini / Agent files
+.gemini/
+.agent/
